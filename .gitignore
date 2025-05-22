@@ -1,0 +1,13 @@
+# Obsidian files
+.obsidian/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules (if you add any plugins later)
+node_modules/
+
+# Build files
+dist/
+build/ 
