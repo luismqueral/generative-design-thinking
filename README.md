@@ -1,28 +1,21 @@
 # Generative Design Thinking
 
-This repository contains the evolving manuscript for "Generative Design Thinking," a book exploring the relationship between design, design thinking, and Large Language Models (LLMs).
+This is a repository for ongoing set of notes on "Generative Design Thinking" which is the process of design work using assistive AI tools. My thoughts are a mess right now, so don't expect anything too interesting yet. This will grow over time and this repo will track those changes.
 
-## Project Structure
+I'm approaching these notes in a similar way to two pioneering generative thinkers: Christopher Alexander (_A Pattern Language_ and _Timeless Way of Building_) and Brian Eno.
 
-The book is organized into three main parts:
+## Structure
+
+There are three pieces to these notes:
 
 ### 1. Theory
-Explores the art and spirit of Generative Design Thinking, providing the philosophical foundation and conceptual framework.
+The art and spirit of Generative Design Thinking -- a philosophical foundation and conceptual framework.
 
 ### 2. Patterns
 Documents new kinds of workflows that emerge at the intersection of design thinking and generative AI.
 
 ### 3. Strategies
-Offers specific prompts and techniques that readers can reference and adapt to grow their generative design work.
+Offers specific prompts and techniques that readers can reference and adapt to grow their generative design work. This is linked to another project of mine Strategy Garden: http://strategy.garden
 
-## Inspiration
-
-This work is inspired by Christopher Alexander's seminal works "The Timeless Way of Building" and "A Pattern Language," adapting their approach to the new frontier of generative AI in design.
-
-## Development
-
-This manuscript is being developed in the open, with all changes tracked through git. The content is primarily written in Markdown using Obsidian.
-
-## Contributing
-
-While this is primarily a personal project, observations, suggestions, and discussions are welcome through GitHub issues. 
+## Contributions
+Feel free to submit any contributions or questions in the Issues section if you find any of this work interesting. Otherwise, throw it a star and check back in a year or so :-).
